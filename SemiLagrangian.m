@@ -43,7 +43,7 @@ switch condition
     case 1
         q0=TestingIC(x);
     case 2
-        q0=IC(x,9);
+        q0=IC1d(x,9);
 end
 
 % Exact solution
